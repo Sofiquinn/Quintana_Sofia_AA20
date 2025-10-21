@@ -25,6 +25,5 @@
     <li><a href="php/estructura-repetitivas.php">Ejercicio 8 – Mostrar la tabla de multiplicar del 2</a></li>
   </ul>
 
-
 </body>
 </html>
